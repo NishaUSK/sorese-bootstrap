@@ -1,5 +1,10 @@
 
-
+.navbar-warning {
+    background-color: rgb(255,215,0);
+}
+.jumbotron{
+  background-color: rgb(255,215,0);
+}
 .footer-container {
     background-color: black;
     margin-bottom: 0 !important;
