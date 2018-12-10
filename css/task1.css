@@ -14,6 +14,10 @@
 
 }
 
+p { margin: 0 !important; }
+
+
+
 .btn {
   margin-left: 10px;
   margin-right: 10px;
@@ -30,13 +34,15 @@
 }
 
 .button-section{
-  padding-left: 50px;
+  padding-left: 130px;
+
 }
 .input{
   padding: 5px 20px;
   width: 280px;
   border-radius: 50px;
   border: 2px solid #A9A9A9;
+  margin-top: 10px;
 }
 
 .close-btn{
